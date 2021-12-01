@@ -1,0 +1,21 @@
+.widget {
+  margin: .5rem;
+  border-radius: 3px;
+  padding: 1rem;
+
+  .widget__title {
+    margin-top: 0;
+  }
+
+  .widget__value {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+
+  .widget__info {
+    font-size: .8rem;
+    font-weight: 300;
+    font-style: italic;
+    opacity: .75;
+  }
+}
